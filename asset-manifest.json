@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/landingpage_infodecs/static/css/main.7f35476e.css",
+    "main.js": "/landingpage_infodecs/static/js/main.36cfc2fc.js",
+    "static/js/453.cd0ef72f.chunk.js": "/landingpage_infodecs/static/js/453.cd0ef72f.chunk.js",
+    "static/media/map.gif": "/landingpage_infodecs/static/media/map.2f28825ef64abca12ae0.gif",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/landingpage_infodecs/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/team-1-800x800.jpg": "/landingpage_infodecs/static/media/team-1-800x800.fa5a7ac2c81a43925586.jpg",
+    "static/media/fontawesome-webfont.eot": "/landingpage_infodecs/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/landingpage_infodecs/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/nucleo-icons.svg": "/landingpage_infodecs/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
+    "static/media/power_bi.avif": "/landingpage_infodecs/static/media/power_bi.f338c7b22abff119253b.avif",
+    "static/media/ss.edc1bb6a.svg": "/landingpage_infodecs/static/media/ss.edc1bb6a.963f029a22506fac2a987ab9c3f8749a.svg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/landingpage_infodecs/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/ill-2.svg": "/landingpage_infodecs/static/media/ill-2.b82bc41ca8f27286779053cc2a544e93.svg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/landingpage_infodecs/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/powerbi.webp": "/landingpage_infodecs/static/media/powerbi.1934fa0d32fc7137acb4.webp",
+    "static/media/excel.webp": "/landingpage_infodecs/static/media/excel.250afce3e4d4317e490b.webp",
+    "static/media/nucleo-icons.eot": "/landingpage_infodecs/static/media/nucleo-icons.19abb5402a664606b14c.eot",
+    "static/media/nucleo-icons.ttf": "/landingpage_infodecs/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
+    "static/media/sql.png": "/landingpage_infodecs/static/media/sql.6672c3aabab83d93afa1.png",
+    "static/media/python.webp": "/landingpage_infodecs/static/media/python.7a9da81b5ea6a4550127.webp",
+    "static/media/excel.png": "/landingpage_infodecs/static/media/excel.b88aee905dd1a413103e.png",
+    "static/media/nucleo-icons.woff": "/landingpage_infodecs/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
+    "static/media/aws.webp": "/landingpage_infodecs/static/media/aws.b2fafcfe10ca53707abb.webp",
+    "static/media/nucleo-icons.woff2": "/landingpage_infodecs/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
+    "index.html": "/landingpage_infodecs/index.html",
+    "main.7f35476e.css.map": "/landingpage_infodecs/static/css/main.7f35476e.css.map",
+    "main.36cfc2fc.js.map": "/landingpage_infodecs/static/js/main.36cfc2fc.js.map",
+    "453.cd0ef72f.chunk.js.map": "/landingpage_infodecs/static/js/453.cd0ef72f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f35476e.css",
+    "static/js/main.36cfc2fc.js"
+  ]
+}
