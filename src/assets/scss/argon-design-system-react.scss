@@ -1,0 +1,24 @@
+@import "~bootstrap/scss/functions";   // Import Bootstrap functions like theme-color
+
+@import "~bootstrap/scss/variables";   // Import Bootstrap variables including color variables
+
+// Bootstrap Functions
+@import "~bootstrap/scss/functions";
+
+// Bootstrap Variables
+@import "~bootstrap/scss/variables";
+
+// Bootstrap Mixins (this is important to ensure mixins like hover-focus are available)
+@import "~bootstrap/scss/mixins";
+
+// Theme Variables
+@import "argon-design-system/variables";
+
+// Bootstrap Core (import Bootstrap's full SCSS after mixins)
+@import "~bootstrap/scss/bootstrap";
+
+// Theme Core (Argon Design System specific SCSS)
+@import "argon-design-system/theme";
+
+// React Differences (specific styles for React components, if applicable)
+@import "react/react-differences";
