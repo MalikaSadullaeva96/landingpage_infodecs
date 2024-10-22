@@ -574,6 +574,30 @@
     background: linear-gradient(35deg,#fb6340,#fbb140)!important;
 }
 
+@media (min-width: 100px) {
+    .pt-0 .bg-gradient-warning  {
+        margin-top: -40%;
+    }
+}
+@media (min-width: 520px) {
+    .pt-0 .bg-gradient-warning  {
+        margin-top: -30%;
+    }
+}
+
+@media (min-width: 720px) {
+    .pt-0 .bg-gradient-warning  {
+        margin-top: -20%;
+    }
+}
+
+@media (min-width: 992px) {
+    .pt-0 .bg-gradient-warning  {
+        margin-top: -8%;
+    }
+}
+
+
 .bg-secondary {
     background-color: #f4f5f7 !important;
     ;
